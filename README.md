@@ -1,29 +1,19 @@
 # vue_shop
 
-## Project setup
+## 前端项目技术栈
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Vue2.0 、Vue-router 、Element-UI 、Axios 、Echarts
 ```
 
-### Compiles and minifies for production
+### 后端项目技术栈
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+Node.js 、Express 、Jwt 、Mysql 、Sequeliez
 ```
 
-### Lints and fixes files
+### 简介
 ```
-npm run lint
+本项目使用vue2.0全家桶实现了电商系统的基本功能:登录登出，用户管理，权限管理，商品列表，订单管理等等一系列功能
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
