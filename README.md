@@ -17,7 +17,7 @@ Node.js 、Express 、Jwt 、Mysql 、Sequeliez
 ```
 ### 预览
 ```
- ![Image text](https://github.com/wxhanywn/vue-shop/blob/main/zp/a.png) 
+ ![Image text](zp/a.png)
 ```
 
 ### Build Setup
