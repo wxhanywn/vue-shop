@@ -15,15 +15,5 @@ Node.js 、Express 、Jwt 、Mysql 、Sequeliez
 本项目使用vue2.0全家桶实现了电商系统的基本功能:登录登出，用户管理，权限管理，商品列表，订单管理等等一系列功能
 ```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
