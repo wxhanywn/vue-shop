@@ -16,4 +16,18 @@ Node.js 、Express 、Jwt 、Mysql 、Sequeliez
 
 ```
 ### 预览
+```
  ![Image text](https://github.com/wxhanywn/vue-shop/blob/main/zp/a.png) 
+```
+
+### Build Setup
+```
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:1322
+npm run dev
+
+# build for production with minification
+npm run build
+```
