@@ -1,6 +1,6 @@
 # vue_shop
 
-## Project setup
+## 技术选型
 ```
 npm install
 ```
