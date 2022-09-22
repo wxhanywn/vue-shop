@@ -1,13 +1,13 @@
 # vue_shop
 
-## 技术选型
+## 前端项目技术栈
 ```
-npm install
+Vue 、Vue-router 、Element-UI 、Axios 、Echarts
 ```
 
-### Compiles and hot-reloads for development
+### 后端项目技术栈
 ```
-npm run serve
+Node.js 、Express 、Jwt 、Mysql 、Sequeliez
 ```
 
 ### Compiles and minifies for production
